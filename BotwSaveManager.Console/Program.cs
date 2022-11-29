@@ -40,7 +40,7 @@ if (input != null && Directory.Exists(input)) {
     }
 }
 else {
-    Console.WriteLine("Please enter a valid folder parh.");
+    Console.WriteLine("Please enter a valid folder path.");
 }
 
 Console.WriteLine("\nPress enter to exit. . .");
